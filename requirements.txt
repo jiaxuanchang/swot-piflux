@@ -1,0 +1,7 @@
+numpy
+scipy
+xarray
+matplotlib
+opencv-python
+haversine
+pandas
